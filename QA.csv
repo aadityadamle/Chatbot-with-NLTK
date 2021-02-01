@@ -1,0 +1,34 @@
+﻿Questions,Answers
+What is the computer system?,"A computer system is a combination of memory, CPU, peripheral devices that are connected to it, and OS (Operating System)."
+List out components of a computer system,"The components of a computer system are CPU including control unit and arithmetic logical unit, memory and I/O devices."
+What is a microprocessor?,A microprocessor is an integrated circuit having all the functionality of a central processing unit of a PC.
+List out some computer processors,"Computer processors are: 1) Intel Core i9, 2) Intel Core i5, 3) Intel Core i7, 4) AMD Ryzen 7, and 5) AMD Ryzen 5."
+List out some popular operating system,"Some popular operating systems are Microsoft Windows, OSX, and Linux."
+What Is A Super-class?,A super class is the basis of all the classes. The object of the rest of the class has all the characteristics related to the superclass.
+Explain class variable,"Variables represent a memory of class, which it shares with each and every instance."
+Explain the meaning of file.,"A file is a named location that stores information or data permanently. It is always stored in the storage device using a file name with primary and secondary name, which is separated by a "".""(DOT)."
+What is SDLC?,"SDLC stands for Software Development Life Cycle is a process that produces quality software products in less time. The stages involve by SDLC are: 1) planning, 2) design, 4) construction, 5) testing, and 6) deployment."
+What is a programming language?,A programming language is a collection of grammar rules for giving instructions to computer or computing devices in order to perform achieve task.
+What is Integrated Development Environment?,An IDE is a GUI-based software program. It is designed to help programmers build applications with all the needed programs and libraries.
+Explain the framework,The framework is a platform for making software applications. It provides the basis on which developers can build programs for a specific platform.
+What is an Interface?,"The interface is similar to a class in Java, but it is a collection of abstract methods. A class can have more than one interface."
+What is a class?,A class is a blueprint for creating objects. A class contains methods and variables which are a class instance.
+What is an array?,An array is a container that keeps a specific number of similar data types.
+What is a constructor?,A constructor is a method that is used to create a class object.
+Define Cin and Cout,"Cin and Cout are objects used for input and output files, respectively."
+List the types of constructors,There are two types of the constructor: 1) parameterized constructor and 2) default constructor.
+What is artificial intelligence?,Artificial Intelligence or machine intelligence is a common term that is used to build smart machines capable of performing tasks. The main aim of AI is to solve problems in a way that are better and faster.
+What is machine learning?,Machine Learning is a system that can learn from an excellent example through self-improvement and without being explicitly coded by a programmer.
+What is deep learning?,Deep learning is computer software that mimics the network of neurons in a brain. It is a subset of machine learning and is called deep learning because it makes use of deep neural networks.
+List out different OOPS principles?,"The basic OOPS principle are: 1) encapsulation, 2) abstraction, 3) inheritance and 4) polymorphism."
+Explain the various type of access modifiers,"There are four types of access modifiers: Private: Visible to a particular class, Public: Visible to the world and Protected: Visible to specific package as well as subclass"
+What is a programming language?,A programming language is a collection of grammar rules to instruct computers or computing devices to perform tasks.
+What is inheritance?,Inheritance is an object-oriented programming concept in which one class derives the properties of the rest of the classes.
+List out Layers of OSI Model,"Layers of OSI models are: 1) Physical, 2) Application, 3) Presentation, 4) Session, 5) Transport, 6) Network, and 6) Data Link Layer."
+What is s the primary difference between process and thread?,"Process is called as a program which is in execution. Thread is a segment of a process, so; a process can have more than one thread."
+Explain primary memory,"Primary memory, RAM is the main memory of a computer which can be directly accessed by the Central Processing Unit (CPU). It stores temporary information until the process finishes its execution."
+What is the internet?,"The internet is a global network of a computer that offers a wide range of information and communication facility. It involves interconnected networks, using a communication protocol."
+What is the World Wide Web (WWW)?,WWW or World Wide Web is a method of accessing information using internet media.
+What is the operating system?,An Operating system (OS) is a software that acts as an interface between the end-user and computer hardware. Every computer must have at least one OS to run other programs.
+What is cryptography?,Cryptography is the study of techniques that hide the real meaning of information. It transforms this information into a format that cannot be read by humans and vice versa.
+What is an Algorithm?,An algorithm is a rule or step-by-step process that must be followed in order to solve a particular problem.
